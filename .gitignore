@@ -1,0 +1,12 @@
+# duckdb / local db files
+*.duckdb
+*.db
+
+# notebooks / python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
